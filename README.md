@@ -1,6 +1,18 @@
-# Log-Analyzer
-Reads records from a software and analyses any errors, warnings and success logs from the software
-With Json file integration it helps organise logs and analysis easier to filter fields. 
+# Security Log Analyzer
+
+## Problem
+...
+
+## Goal
+...
+
+## Planned Features
+- Parse authentication logs
+- Detect failed login attempts
+- Identify suspicious IP addresses
+- Detect potential brute-force activity
+- Generate a security report
+- Test detection logic
 
 
 
